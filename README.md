@@ -2,7 +2,6 @@
 
 ## Unordered list
 - item1
-- item2
 - item3
 
 ---
@@ -15,5 +14,11 @@ inline code: `git clone <url>`
 ```bash
 cd /opt
 git clone <repo url>
+```
+---
+### New Chapter
+```python
+def main();
+    print("hello")
 ```
 ---
