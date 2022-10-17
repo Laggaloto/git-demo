@@ -1,5 +1,6 @@
-#my psimple hello world program
+#my simple hello world program
 
-print("Hello W0rld!")
+name = input("Give me your name: ")
+print(f"Hello {name}!")
 
-# TODO: modify program to great by name
+# TODO: modify program to have a function
