@@ -8,6 +8,6 @@ name = input("Give me your name: ")
 def greet(name: str):
     print(f"Hello {name}!")
 
-greeting(name)
+greet(name)
 
 #TODO: Something
